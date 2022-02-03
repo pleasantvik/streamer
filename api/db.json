@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "other stream",
+      "description": "second stream",
+      "id": 2
+    },
+    {
+      "title": "New Stream",
+      "description": "Creating a new Stream",
+      "userId": "110412777535240922553",
+      "id": 3
+    }
+  ]
+}
